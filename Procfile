@@ -1,1 +1,1 @@
-worker: server.py
+worker: server.js
